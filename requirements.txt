@@ -1,0 +1,8 @@
+smart_open==5.0.0
+boto3
+pandas
+pyyaml
+absl-py
+pyarrow
+joblib
+dill
